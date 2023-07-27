@@ -1,0 +1,12 @@
+/home/coder/project/workspace/DLL1/MovieLibrary/bin/Debug/net6.0/MovieLibrary.deps.json
+/home/coder/project/workspace/DLL1/MovieLibrary/bin/Debug/net6.0/MovieLibrary.dll
+/home/coder/project/workspace/DLL1/MovieLibrary/bin/Debug/net6.0/MovieLibrary.pdb
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/MovieLibrary.csproj.AssemblyReference.cache
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/MovieLibrary.AssemblyInfoInputs.cache
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/MovieLibrary.AssemblyInfo.cs
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/MovieLibrary.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/MovieLibrary.dll
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/refint/MovieLibrary.dll
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/MovieLibrary.pdb
+/home/coder/project/workspace/DLL1/MovieLibrary/obj/Debug/net6.0/ref/MovieLibrary.dll
